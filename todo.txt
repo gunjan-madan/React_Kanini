@@ -1,0 +1,9 @@
+//Write arrow function to create a function to check if number is prime or not
+//Write an arrow function to count number of vowels in a parameter
+
+//Create one JS Module with areaOfSqaure, areaOfRect, areaOfCircle and export them
+//Create another file and call all these functions post importing
+
+//Create a similar callback hell situation
+//SOlve the problem using promises.
+
